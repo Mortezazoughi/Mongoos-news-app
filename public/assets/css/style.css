@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://images.pexels.com/photos/586339/pexels-photo-586339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-attachment: auto;
+  padding-top: 70px;
+  color: white;
+}
+
+.jumbotron {
+  background-color: transparent !important;
+}
+
+.deleteNote {
+  display: inline-block;
+}
+
+.previousNotes {
+  display: inline-block;
+  width: 90%;
+}
+
+#scrape {
+  margin: 8px 0px;
+}
